@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Navpreet Singh - Personal Blog"
+title = "Navpreet Singh"
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -11,14 +11,14 @@ pygmentsstyle = "b2"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+#disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Navpreet Singh"
     description = "Navpreet Singh's personal website"
     keywords = "blog,developer,personal"
     info = "Cloud Solution Architect and DevSecOps"
-#   avatarurl = "images/avatar.jpg"
+    avatarurl = "images/avatar.webp"
     footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
